@@ -89,3 +89,7 @@ Edit the placeholders in `index.html` accordingly.
 Free to use and modify for educational or non-profit purposes. For commercial use, please credit the original author or team.
 
 ---
+
+## 🔗 Link
+[![View Live](https://img.shields.io/badge/View%20Live-Click%20Here-blue)](https://dynamic-kitsune-c1e5e9.netlify.app/)
+
